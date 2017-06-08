@@ -1,4 +1,5 @@
-﻿using System;
+﻿using hernandezGalindoAlberto_ExamenFinalER.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace hernandezGalindoAlberto_ExamenFinalER
     {
         static void Main(string[] args)
         {
-            // A
+          ClinicaVeterinaria C = new ClinicaVeterinaria();
         }
     }
 }
